@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EigenProjecten\\Project1Hitster\\Owner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|c:\\eigenprojecten\\project1hitster\\owner\\owner\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|solutionrelative:owner\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|c:\\eigenprojecten\\project1hitster\\owner\\owner\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|solutionrelative:owner\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|c:\\eigenprojecten\\project1hitster\\owner\\owner\\owner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|solutionrelative:owner\\owner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|c:\\eigenprojecten\\project1hitster\\owner\\owner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|solutionrelative:owner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|c:\\eigenprojecten\\project1hitster\\owner\\owner\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|solutionrelative:owner\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|c:\\eigenprojecten\\project1hitster\\owner\\owner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27C760A-F21D-46ED-A627-176510FB7829}|Owner\\Owner.csproj|solutionrelative:owner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Owner\\controllers\\AdminController.cs",
+              "ToolTip": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\controllers\\AdminController.cs",
+              "RelativeToolTip": "Owner\\controllers\\AdminController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAIwLAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:20:49.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Owner",
+              "DocumentMoniker": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\Owner.csproj",
+              "RelativeDocumentMoniker": "Owner\\Owner.csproj",
+              "ToolTip": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\Owner.csproj",
+              "RelativeToolTip": "Owner\\Owner.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T11:20:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\models\\Admin.cs",
+              "RelativeDocumentMoniker": "Owner\\models\\Admin.cs",
+              "ToolTip": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\models\\Admin.cs",
+              "RelativeToolTip": "Owner\\models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:16:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\App.config",
+              "RelativeDocumentMoniker": "Owner\\App.config",
+              "ToolTip": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\App.config",
+              "RelativeToolTip": "Owner\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-15T11:12:40.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Owner\\MainWindow.xaml",
+              "ToolTip": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\MainWindow.xaml",
+              "RelativeToolTip": "Owner\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T14:23:49.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Owner\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\EigenProjecten\\Project1Hitster\\Owner\\Owner\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Owner\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:23:45.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
