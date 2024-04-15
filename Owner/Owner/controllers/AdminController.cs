@@ -6,7 +6,6 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 
 namespace Owner.controllers
 {
@@ -46,7 +45,7 @@ namespace Owner.controllers
                 {
                     conn.Close();
                 }
-            }                   
+            }
             return (methodResult, admins);
         }
         public (string, Admin) Show(int id)
@@ -98,7 +97,7 @@ namespace Owner.controllers
                     sql.Parameters.AddWithValue("@name", admin.Name);
                     sql.Parameters.AddWithValue("@password", admin.Password);
                     sql.Parameters.AddWithValue("@salt", admin.Salt);
-                    if(sql.ExecuteNonQuery() == 1)
+                    if (sql.ExecuteNonQuery() == 1)
                     {
                         methodResult = "ok";
                     }
